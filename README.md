@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Git, Notion</strong>
 </p>
 
 <p align="left">
