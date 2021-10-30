@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript e ReactJS</strong>
+  🦄 Tecnologias: <strong>HTML, SaSS, JavaScript e PHP</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git e Notion</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Git, FileZilla, Xampp e Notion</strong>
 </p>
 
 <p align="left">
