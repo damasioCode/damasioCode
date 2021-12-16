@@ -1,7 +1,7 @@
 <img src="computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador damasioCode">
 
 <p align="left"> 
-  Eai, meu nome é Daniel Damasio. Sou <strong>Desenvolvedor Front-end</strong>.<br>
+  Eai, meu nome é Daniel Damasio. Sou <strong>Desenvolvedor Fullstack</strong>.<br>
   Estou cursando bacharelado em <strong>Engenharia de Software</strong>
 </p>
 
