@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML, SaSS, JavaScript e PHP</strong>
+  🦄 Tecnologias: <strong>HTML, SaSS, JavaScript, PHP, MySQL</strong>
 </p>
 
 <p align="left">
