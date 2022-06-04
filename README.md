@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>HTML, SaSS, JavaScripte, PHP e MySQL</strong>
+  🦄 Tecnologias: <strong>JavaScript, PHP, Laravel e MySQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git, FileZilla, Xampp e Notion</strong>
+  💼 Ferramentas: <strong>VSCode, Figma, Git, e Notion</strong>
 </p>
 
 <p align="left">
