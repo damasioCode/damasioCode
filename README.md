@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>JavaScript, NodeJS, PHP e PostgreSQL</strong>
+  🦄 Tecnologias: <strong>JavaScript, ReactJS, MongoDB, NodeJS, PHP e PostgreSQL</strong>
 </p>
 
 <p align="left">
