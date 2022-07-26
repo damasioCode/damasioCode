@@ -21,7 +21,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ReactJS" height="30" width="40" src="[https://img.icons8.com/color/344/sass.png](https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png](https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/react/react-original.svg)">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://git.svarun.dev/devicons/devicon/raw/branch/master/icons/react/react-original.svg">
 </div>
 <br>
 
