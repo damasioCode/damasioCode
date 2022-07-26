@@ -17,7 +17,7 @@
   Se desejar trocar uma ideia comigo irei ficar a disposição: ⤵️
 </p>
 
- <div align="left" style="display: inline_block"><br>
+ <div align="left" style="display: inline_block; margin-bottom: 16px"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
