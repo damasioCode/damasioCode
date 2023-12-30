@@ -9,7 +9,7 @@ Meu nome é Daniel Damasio. Sou freelancer **Backend Developer** e **Frontend De
 
 Sou um entusiasta da programação transformado para transformar, criar soluções inovadoras e eficientes. Busco constantemente maneiras inovadoras de abordar desafios técnicos, resultando em soluções elegantes e eficientes. Trabalho muito bem em equipe e ajudar as pessoas.
 
-# Stack
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
